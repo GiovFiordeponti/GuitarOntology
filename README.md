@@ -1,2 +1,2 @@
 # GuitarOntology
-A guitar ontology written in OWL
+A guitar ontology written in OWL, using [Protégé](https://protege.stanford.edu/)
